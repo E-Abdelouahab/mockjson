@@ -3,7 +3,7 @@
   "Négociations": [
     { "name": "En attente du traitement", "value": 1 },
     { "name": "En cours", "value": 39 },
-    { "name": "Échoués", "value": 40 }
+    { "name": "Échoués", "value": 60 }
   ],
   "Missions": [
     { "name": "En attente du traitement", "value": 40 },
