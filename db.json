@@ -1,299 +1,94 @@
 {
-    "dashboard1": {
-      "Négociations": {
-        "cemois": [
-          { "name": "En attente du traitement", "value": 1 },
-          { "name": "En cours", "value": 39 },
-          { "name": "Échoués", "value": 60 }
-        ],
-        "moisdernier": [
-          { "name": "En attente du traitement", "value": 10 },
-          { "name": "En cours", "value": 20 },
-          { "name": "Échoués", "value": 70 }
-        ],
-        "cetteannee": [
-          { "name": "En attente du traitement", "value": 5 },
-          { "name": "En cours", "value": 45 },
-          { "name": "Échoués", "value": 50 }
-        ],
-        "anneederniere": [
-          { "name": "En attente du traitement", "value": 2 },
-          { "name": "En cours", "value": 30 },
-          { "name": "Échoués", "value": 68 }
-        ]
-      },
-      "Missions": {
-        "cemois": [
-          { "name": "En attente du traitement", "value": 40 },
-          { "name": "En cours", "value": 40 },
-          { "name": "Échoués", "value": 20 }
-        ],
-        "moisdernier": [
-          { "name": "En attente du traitement", "value": 35 },
-          { "name": "En cours", "value": 45 },
-          { "name": "Échoués", "value": 20 }
-        ],
-        "cetteannee": [
-          { "name": "En attente du traitement", "value": 50 },
-          { "name": "En cours", "value": 35 },
-          { "name": "Échoués", "value": 15 }
-        ],
-        "anneederniere": [
-          { "name": "En attente du traitement", "value": 30 },
-          { "name": "En cours", "value": 40 },
-          { "name": "Échoués", "value": 30 }
-        ]
-      }
+  "dashboard1": {
+    "Négociations": {
+      "cemois": [
+        { "name": "En attente du traitement", "value": 1 },
+        { "name": "En cours", "value": 39 },
+        { "name": "Échoués", "value": 60 }
+      ],
+      "moisdernier": [
+        { "name": "En attente du traitement", "value": 10 },
+        { "name": "En cours", "value": 20 },
+        { "name": "Échoués", "value": 70 }
+      ],
+      "cetteannee": [
+        { "name": "En attente du traitement", "value": 5 },
+        { "name": "En cours", "value": 45 },
+        { "name": "Échoués", "value": 50 }
+      ],
+      "anneederniere": [
+        { "name": "En attente du traitement", "value": 2 },
+        { "name": "En cours", "value": 30 },
+        { "name": "Échoués", "value": 68 }
+      ]
     },
-    "dashboard2": {
-      "Négociations": {
-        "cemois": [
-          { "name": "En attente du traitement", "value": 1 },
-          { "name": "En cours", "value": 39 },
-          { "name": "Échoués", "value": 60 }
-        ],
-        "moisdernier": [
-          { "name": "En attente du traitement", "value": 2 },
-          { "name": "En cours", "value": 30 },
-          { "name": "Échoués", "value": 68 }
-        ],
-        "cetteannee": [
-          { "name": "En attente du traitement", "value": 5 },
-          { "name": "En cours", "value": 45 },
-          { "name": "Échoués", "value": 50 }
-        ],
-        "anneederniere": [
-          { "name": "En attente du traitement", "value": 3 },
-          { "name": "En cours", "value": 33 },
-          { "name": "Échoués", "value": 64 }
-        ]
-      },
-      "Missions": {
-        "cemois": [
-          { "name": "En attente du traitement", "value": 40 },
-          { "name": "En cours", "value": 40 },
-          { "name": "Échoués", "value": 20 }
-        ],
-        "moisdernier": [
-          { "name": "En attente du traitement", "value": 35 },
-          { "name": "En cours", "value": 45 },
-          { "name": "Échoués", "value": 20 }
-        ],
-        "cetteannee": [
-          { "name": "En attente du traitement", "value": 50 },
-          { "name": "En cours", "value": 35 },
-          { "name": "Échoués", "value": 15 }
-        ],
-        "anneederniere": [
-          { "name": "En attente du traitement", "value": 30 },
-          { "name": "En cours", "value": 40 },
-          { "name": "Échoués", "value": 30 }
-        ]
-      }
+    "Missions": {
+      "cemois": [
+        { "name": "En attente du traitement", "value": 40 },
+        { "name": "En cours", "value": 40 },
+        { "name": "Échoués", "value": 20 }
+      ],
+      "moisdernier": [
+        { "name": "En attente du traitement", "value": 35 },
+        { "name": "En cours", "value": 45 },
+        { "name": "Échoués", "value": 20 }
+      ],
+      "cetteannee": [
+        { "name": "En attente du traitement", "value": 50 },
+        { "name": "En cours", "value": 35 },
+        { "name": "Échoués", "value": 15 }
+      ],
+      "anneederniere": [
+        { "name": "En attente du traitement", "value": 30 },
+        { "name": "En cours", "value": 40 },
+        { "name": "Échoués", "value": 30 }
+      ]
+    }
+  },
+  "dashboard2": {
+    "Négociations": {
+      "cemois": [
+        { "name": "En attente du traitement", "value": 1 },
+        { "name": "En cours", "value": 39 },
+        { "name": "Échoués", "value": 60 }
+      ],
+      "moisdernier": [
+        { "name": "En attente du traitement", "value": 2 },
+        { "name": "En cours", "value": 30 },
+        { "name": "Échoués", "value": 68 }
+      ],
+      "cetteannee": [
+        { "name": "En attente du traitement", "value": 5 },
+        { "name": "En cours", "value": 45 },
+        { "name": "Échoués", "value": 50 }
+      ],
+      "anneederniere": [
+        { "name": "En attente du traitement", "value": 3 },
+        { "name": "En cours", "value": 33 },
+        { "name": "Échoués", "value": 64 }
+      ]
     },
-    "dashboard3": {
-      "Formations": {
-        "cemois": [
-          { "name": "Dossier en attente", "value": 40.54 },
-          { "name": "Inscrits", "value": 4.05 },
-          { "name": "Refusés", "value": 55.41 }
-        ],
-        "moisdernier": [
-          { "name": "Dossier en attente", "value": 30.77 },
-          { "name": "Inscrits", "value": 38.46 },
-          { "name": "Refusés", "value": 30.77 }
-        ],
-        "cetteannee": [
-          { "name": "Dossier en attente", "value": 33.75 },
-          { "name": "Inscrits", "value": 41.25 },
-          { "name": "Refusés", "value": 25.0 }
-        ],
-        "anneederniere": [
-          { "name": "Dossier en attente", "value": 40.98 },
-          { "name": "Inscrits", "value": 8.2 },
-          { "name": "Refusés", "value": 50.82 }
-        ]
-      },
-      "Formateurs": {
-        "cemois": [
-          { "name": "Dossier en attente", "value": 5.08 },
-          { "name": "Inscrits", "value": 81.36 },
-          { "name": "Refusés", "value": 13.56 }
-        ],
-        "moisdernier": [
-          { "name": "Dossier en attente", "value": 17.74 },
-          { "name": "Inscrits", "value": 25.81 },
-          { "name": "Refusés", "value": 56.45 }
-        ],
-        "cetteannee": [
-          { "name": "Dossier en attente", "value": 29.29 },
-          { "name": "Inscrits", "value": 25.25 },
-          { "name": "Refusés", "value": 45.45 }
-        ],
-        "anneederniere": [
-          { "name": "Dossier en attente", "value": 78.12 },
-          { "name": "Inscrits", "value": 17.19 },
-          { "name": "Refusés", "value": 4.69 }
-        ]
-      },
-      "Entreprises": {
-        "cemois": [
-          { "name": "Dossier en attente", "value": 38.1 },
-          { "name": "Inscrits", "value": 13.1 },
-          { "name": "Refusés", "value": 48.81 }
-        ],
-        "moisdernier": [
-          { "name": "Dossier en attente", "value": 73.33 },
-          { "name": "Inscrits", "value": 13.33 },
-          { "name": "Refusés", "value": 13.33 }
-        ],
-        "cetteannee": [
-          { "name": "Dossier en attente", "value": 37.88 },
-          { "name": "Inscrits", "value": 22.73 },
-          { "name": "Refusés", "value": 39.39 }
-        ],
-        "anneederniere": [
-          { "name": "Dossier en attente", "value": 44.44 },
-          { "name": "Inscrits", "value": 15.28 },
-          { "name": "Refusés", "value": 40.28 }
-        ]
-      }
-    },
-    "dashboard4": {
-      "Formations": {
-        "cemois": [
-          { "name": "Dossier en attente", "value": 39.23 },
-          { "name": "Inscrits", "value": 5.77 },
-          { "name": "Refusés", "value": 55.0 }
-        ],
-        "moisdernier": [
-          { "name": "Dossier en attente", "value": 38.46 },
-          { "name": "Inscrits", "value": 34.62 },
-          { "name": "Refusés", "value": 26.92 }
-        ],
-        "cetteannee": [
-          { "name": "Dossier en attente", "value": 36.92 },
-          { "name": "Inscrits", "value": 40.0 },
-          { "name": "Refusés", "value": 23.08 }
-        ],
-        "anneederniere": [
-          { "name": "Dossier en attente", "value": 45.0 },
-          { "name": "Inscrits", "value": 25.0 },
-          { "name": "Refusés", "value": 30.0 }
-        ]
-      },
-      "Formateurs": {
-        "cemois": [
-          { "name": "Dossier en attente", "value": 10.0 },
-          { "name": "Inscrits", "value": 80.0 },
-          { "name": "Refusés", "value": 10.0 }
-        ],
-        "moisdernier": [
-          { "name": "Dossier en attente", "value": 5.0 },
-          { "name": "Inscrits", "value": 75.0 },
-          { "name": "Refusés", "value": 20.0 }
-        ],
-        "cetteannee": [
-          { "name": "Dossier en attente", "value": 12.5 },
-          { "name": "Inscrits", "value": 70.0 },
-          { "name": "Refusés", "value": 17.5 }
-        ],
-        "anneederniere": [
-          { "name": "Dossier en attente", "value": 17.0 },
-          { "name": "Inscrits", "value": 65.0 },
-          { "name": "Refusés", "value": 18.0 }
-        ]
-      },
-      "Entreprises": {
-        "cemois": [
-          { "name": "Dossier en attente", "value": 35.0 },
-          { "name": "Inscrits", "value": 20.0 },
-          { "name": "Refusés", "value": 45.0 }
-        ],
-        "moisdernier": [
-          { "name": "Dossier en attente", "value": 40.0 },
-          { "name": "Inscrits", "value": 30.0 },
-          { "name": "Refusés", "value": 30.0 }
-        ],
-        "cetteannee": [
-          { "name": "Dossier en attente", "value": 50.0 },
-          { "name": "Inscrits", "value": 25.0 },
-          { "name": "Refusés", "value": 25.0 }
-        ],
-        "anneederniere": [
-          { "name": "Dossier en attente", "value": 33.33 },
-          { "name": "Inscrits", "value": 33.33 },
-          { "name": "Refusés", "value": 33.33 }
-        ]
-      }
-    },
-    "dashboard5": {
-      "Formations": {
-        "cemois": [
-          { "name": "Dossier en attente", "value": 41.0 },
-          { "name": "Inscrits", "value": 7.0 },
-          { "name": "Refusés", "value": 52.0 }
-        ],
-        "moisdernier": [
-          { "name": "Dossier en attente", "value": 28.0 },
-          { "name": "Inscrits", "value": 32.0 },
-          { "name": "Refusés", "value": 40.0 }
-        ],
-        "cetteannee": [
-          { "name": "Dossier en attente", "value": 39.0 },
-          { "name": "Inscrits", "value": 25.0 },
-          { "name": "Refusés", "value": 36.0 }
-        ],
-        "anneederniere": [
-          { "name": "Dossier en attente", "value": 43.0 },
-          { "name": "Inscrits", "value": 16.0 },
-          { "name": "Refusés", "value": 41.0 }
-        ]
-      },
-      "Formateurs": {
-        "cemois": [
-          { "name": "Dossier en attente", "value": 5.0 },
-          { "name": "Inscrits", "value": 80.0 },
-          { "name": "Refusés", "value": 15.0 }
-        ],
-        "moisdernier": [
-          { "name": "Dossier en attente", "value": 2.0 },
-          { "name": "Inscrits", "value": 78.0 },
-          { "name": "Refusés", "value": 20.0 }
-        ],
-        "cetteannee": [
-          { "name": "Dossier en attente", "value": 10.0 },
-          { "name": "Inscrits", "value": 72.0 },
-          { "name": "Refusés", "value": 18.0 }
-        ],
-        "anneederniere": [
-          { "name": "Dossier en attente", "value": 12.0 },
-          { "name": "Inscrits", "value": 70.0 },
-          { "name": "Refusés", "value": 18.0 }
-        ]
-      },
-      "Entreprises": {
-        "cemois": [
-          { "name": "Dossier en attente", "value": 50.0 },
-          { "name": "Inscrits", "value": 25.0 },
-          { "name": "Refusés", "value": 25.0 }
-        ],
-        "moisdernier": [
-          { "name": "Dossier en attente", "value": 45.0 },
-          { "name": "Inscrits", "value": 35.0 },
-          { "name": "Refusés", "value": 20.0 }
-        ],
-        "cetteannee": [
-          { "name": "Dossier en attente", "value": 30.0 },
-          { "name": "Inscrits", "value": 40.0 },
-          { "name": "Refusés", "value": 30.0 }
-        ],
-        "anneederniere": [
-          { "name": "Dossier en attente", "value": 40.0 },
-          { "name": "Inscrits", "value": 30.0 },
-          { "name": "Refusés", "value": 30.0 }
-        ]
-      }
+    "Missions": {
+      "cemois": [
+        { "name": "En attente du traitement", "value": 40 },
+        { "name": "En cours", "value": 40 },
+        { "name": "Échoués", "value": 20 }
+      ],
+      "moisdernier": [
+        { "name": "En attente du traitement", "value": 35 },
+        { "name": "En cours", "value": 45 },
+        { "name": "Échoués", "value": 20 }
+      ],
+      "cetteannee": [
+        { "name": "En attente du traitement", "value": 50 },
+        { "name": "En cours", "value": 35 },
+        { "name": "Échoués", "value": 15 }
+      ],
+      "anneederniere": [
+        { "name": "En attente du traitement", "value": 30 },
+        { "name": "En cours", "value": 40 },
+        { "name": "Échoués", "value": 30 }
+      ]
     }
   }
-  
+}
