@@ -90,6 +90,72 @@
           { "name": "Échoués", "value": 30 }
         ]
       }
+    },
+    "dashboard4": {
+      "cemois": [
+        { "name": "Dossier en attente", "value": 10 },
+        { "name": "Inscrits", "value": 70 },
+        { "name": "Refusés", "value": 20 }
+      ],
+      "moisdernier": [
+        { "name": "Dossier en attente", "value": 28 },
+        { "name": "Inscrits", "value": 42 },
+        { "name": "Refusés", "value": 30 }
+      ],
+      "cetteannee": [
+        { "name": "Dossier en attente", "value": 15 },
+        { "name": "Inscrits", "value": 50 },
+        { "name": "Refusés", "value": 35 }
+      ],
+      "anneederniere": [
+        { "name": "Dossier en attente", "value": 10 },
+        { "name": "Inscrits", "value": 70 },
+        { "name": "Refusés", "value": 20 }
+      ]
+    },
+    "dashboard5": {
+      "cemois": [
+        { "name": "Dossier en attente", "value": 10 },
+        { "name": "Inscrits", "value": 70 },
+        { "name": "Refusés", "value": 20 }
+      ],
+      "moisdernier": [
+        { "name": "Dossier en attente", "value": 28 },
+        { "name": "Inscrits", "value": 42 },
+        { "name": "Refusés", "value": 30 }
+      ],
+      "cetteannee": [
+        { "name": "Dossier en attente", "value": 15 },
+        { "name": "Inscrits", "value": 50 },
+        { "name": "Refusés", "value": 35 }
+      ],
+      "anneederniere": [
+        { "name": "Dossier en attente", "value": 10 },
+        { "name": "Inscrits", "value": 70 },
+        { "name": "Refusés", "value": 20 }
+      ]
+    },
+    "dashboard6": {
+      "cemois": [
+        { "name": "Dossier en attente", "value": 12 },
+        { "name": "Inscrits", "value": 65 },
+        { "name": "Refusés", "value": 23 }
+      ],
+      "moisdernier": [
+        { "name": "Dossier en attente", "value": 30 },
+        { "name": "Inscrits", "value": 50 },
+        { "name": "Refusés", "value": 25 }
+      ],
+      "cetteannee": [
+        { "name": "Dossier en attente", "value": 18 },
+        { "name": "Inscrits", "value": 58 },
+        { "name": "Refusés", "value": 32 }
+      ],
+      "anneederniere": [
+        { "name": "Dossier en attente", "value": 14 },
+        { "name": "Inscrits", "value": 65 },
+        { "name": "Refusés", "value": 28 }
+      ]
     }
   }
   
