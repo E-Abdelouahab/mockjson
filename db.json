@@ -102,8 +102,8 @@
       ],
       "cetteannee": [
         { "name": "Dossier en attente", "value": 50 },
-          { "name": "Inscrits", "value": 35 },
-          { "name": "Refusés", "value": 15 }  
+          { "name": "Inscrits", "value": 30 },
+          { "name": "Refusés", "value": 20 }  
       ],
       "anneederniere": [
         { "name": "Dossier en attente", "value": 40 },
