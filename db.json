@@ -1,3 +1,15 @@
 {
-    "pos":{"tedt":"la","oskofa":{"id":"tferka"}}
+    "dashboard1":{
+  "Négociations": [
+    { "name": "En attente du traitement", "value": 30 },
+    { "name": "En cours", "value": 50 },
+    { "name": "Échoués", "value": 20 }
+  ],
+  "Missions": [
+    { "name": "En attente du traitement", "value": 40 },
+    { "name": "En cours", "value": 40 },
+    { "name": "Échoués", "value": 20 }
+  ]
+}
+
 }
