@@ -10,6 +10,18 @@
     { "name": "En cours", "value": 40 },
     { "name": "Échoués", "value": 20 }
   ]
-}
+},
+"dashboard2":{
+    "Négociations": [
+      { "name": "En attente du traitement", "value": 11 },
+      { "name": "En cours", "value": 19 },
+      { "name": "Échoués", "value": 70 }
+    ],
+    "Missions": [
+      { "name": "En attente du traitement", "value": 40 },
+      { "name": "En cours", "value": 40 },
+      { "name": "Échoués", "value": 20 }
+    ]
+  }
 
 }
