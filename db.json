@@ -1,9 +1,9 @@
 {
     "dashboard1":{
   "Négociations": [
-    { "name": "En attente du traitement", "value": 11 },
-    { "name": "En cours", "value": 19 },
-    { "name": "Échoués", "value": 70 }
+    { "name": "En attente du traitement", "value": 1 },
+    { "name": "En cours", "value": 39 },
+    { "name": "Échoués", "value": 40 }
   ],
   "Missions": [
     { "name": "En attente du traitement", "value": 40 },
