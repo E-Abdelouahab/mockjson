@@ -123,5 +123,48 @@
             { "total": 80000, "percent": 46 }
       ]
     }
+  },
+  "dashboard3": {
+    "Formateurs": {
+      "cemois": [
+          { "total": 13000, "percent": 12 }   
+      ],
+      "moisdernier": [
+          { "total": 170300, "percent": 82 } 
+      ],
+      "cetteannee": [
+          { "total": 19000, "percent": 63 }  
+      ],
+      "anneederniere": [
+          { "total": 20000, "percent": 23 }
+      ]
+    },
+    "Entreprises": {
+      "cemois": [
+          { "total": 20040, "percent": 73 }   
+      ],
+      "moisdernier": [
+          { "total": 40034, "percent": 65 }    
+      ],
+      "cetteannee": [
+          { "total": 50000, "percent": 44 } 
+      ],
+      "anneederniere": [
+          { "total": 60000, "percent": 33 }    
+      ]
+    },"Formations": {
+      "cemois": [
+            { "total": 10540, "percent": 21 } 
+      ],
+      "moisdernier": [
+            { "total": 60500, "percent": 88 } 
+      ],
+      "cetteannee": [
+            { "total": 70000, "percent": 55 } 
+      ],
+      "anneederniere": [
+            { "total": 80000, "percent": 46 }
+      ]
+    }
   }
 }
