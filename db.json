@@ -50,7 +50,8 @@
       "cemois": [
         { "name": "Dossier en attente", "value": 41 },
           { "name": "Inscrits", "value": 7 },
-          { "name": "Refusés", "value": 52 }   
+          { "name": "Refusés", "value": 52 } ,
+          { "total": 13000, "percent": 12 }   
       ],
       "moisdernier": [
         { "name": "Dossier en attente", "value": 2 },
